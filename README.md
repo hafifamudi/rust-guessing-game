@@ -1,6 +1,6 @@
 # **Simple game that written with Rust Programming Language**
 
-# You must install first Rust with the Cargo package manager then you can go to the following step
+####### You must install first Rust with the Cargo package manager then you can go to the following step
 
 ## First Step to Install the depedency or library
   
